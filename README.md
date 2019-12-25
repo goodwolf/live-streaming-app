@@ -2,7 +2,7 @@
 
 This app provides a user friendly experience for mobile viewing of live events from live TV, concerts to other venues.
 
-### Contect
+### Contact
 
 Name: Connor Goodwolf
 
